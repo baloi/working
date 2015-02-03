@@ -12,10 +12,10 @@ agList * agList_create();
 ////////////////////////////////////////////////////////////////////////////////
 
 void test_list_node_create() {
-    printf( "test_list_node_create -- START\n" );
+    printf( "\ntest_list_node_create -- START\n" );
     agListNode *    node    =  agListNode_create();
 
-    node->item = "An item\n";
+    node->item = "An item";
     
     node->person->name = "Bali";
     node->person->address = "343 Smith Road";
@@ -24,7 +24,7 @@ void test_list_node_create() {
     printf( "node->person->name = %s\n", node->person->name );
     printf( "node->person->address = %s\n", node->person->address );
 
-    printf( "test_list_node_create -- END\n" );
+    printf( "test_list_node_create -- END\n\n" );
 }
 
 void test_list_create() {
