@@ -52,6 +52,21 @@
 
 #include "common.h"
 
+
+////////////////////////////////////////////////////////////////////////////////
+//     
+//  agPerson structure
+// 
+////////////////////////////////////////////////////////////////////////////////
+typedef struct _person_ agPerson;
+
+struct  _person_ {
+    char *          name; 
+    char *          address;
+};
+
+
+
 ////////////////////////////////////////////////////////////////////////////////
 //     
 //  agListNode structure
@@ -62,6 +77,8 @@ typedef struct _list_node_ agListNode;
 
 struct  _list_node_ {
     char *          item;
+    agPerson *      person;
+    //void  *      person;
 
     void                ( * unlink )        ( void * self );
     bool                ( * is_linked )     ( void * self ); 
@@ -95,8 +112,10 @@ struct _list_ {
 
 };
 
+
 extern      agList *        agList_create();
 extern      void            agList_destroy( agList * list ); 
 extern      agListNode *    agListNode_create();
+extern      agPerson *      agPerson_create();
 
 #endif

@@ -3,6 +3,18 @@
 
 #include "link_list.h"
 
+agPerson * agPerson_create() {
+    agPerson * person;
+        
+    person = calloc( 1, sizeof( agPerson ) );
+
+    if( person == NULL ) {
+        printf( "Error creating person\n" );
+    }
+
+    return person;
+}
+
 agListNode * agListNode_create() {
     agListNode *    node;
 
@@ -15,6 +27,8 @@ agListNode * agListNode_create() {
     node->item = NULL;
     node->prev = NULL;
     node->next = NULL;
+
+    node->person = agPerson_create();
 
     return node;
 
