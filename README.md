@@ -3,9 +3,32 @@
 
 ================================================================================
 
+Wed Feb  4 21:15:09 EST 2015
+
+    Listening to the Piano Guys and such music. Getting coding juices flowing..
+
+    
+
+================================================================================
+
+Tue Feb  3 
+
+    Busy filling up my application for the second job in Thera Dynamics. Seems
+    like a very good opportunity for me. Coding soon though. I borrowed Henry
+    Kissinger's book "World Order" from the library. A good read.
+
+================================================================================
+
 Mon Feb  2 20:25:53 EST 2015
 
+    A day of just enough activity during the day. Reading "Move Your DNA" and
+    accepting that exercising is not the really the end-all. More activity 
+    during the day. More movements. Varied movements. Lift, crouch, jump, walk,
+    run, bend, twist, squat, pull, push. You have six hundred muscles in your
+    body and there is a good chance that your exercise program does not use ALL
+    of them.
 
+ 
 
 ================================================================================
 
