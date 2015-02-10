@@ -3,6 +3,13 @@
 
 ================================================================================
 
+Tue Feb 10 06:53:36 EST 2015
+
+    Have not coded for a whole week due to the new job at Ferncliff Nursing Home
+    as a per diem PT.
+
+================================================================================
+
 Wed Feb  4 21:15:09 EST 2015
 
     Listening to the Piano Guys and such music. Getting coding juices flowing..
