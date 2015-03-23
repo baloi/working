@@ -1,0 +1,21 @@
+> simplest database access using a subset of SQL.
+  Operations:
+    * CREATE
+    * INSERT
+    * UPDATE
+    * DELETE
+
+> How about encrypting communications?
+
+> Accept and output plain text but store all as
+  encrypted stuff.
+
+> A gateway encrypts and decrypts everything...
+
+> searches will be for encrypted forms....
+
+> Sounds like a good idea
+
+> only the "id" values will not be encrypted.
+
+> Study encryption in C then.
