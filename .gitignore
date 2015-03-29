@@ -1,2 +1,4 @@
 *.swp
 *.gch
+kernigan/test_dbh
+kernigan/strcmp_test

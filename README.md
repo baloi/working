@@ -12,6 +12,10 @@ Sun Mar 29 08:38:48 EDT 2015
     > console input from linenoise (this might take a while) so:
       * break it down to just the console input without history first to make
         it more manageable
+    > could also use link_list datastructure to put database in memory....
+      * this should be later... 
+      * found in BSD box ~/working/containers folder
+
 
 ================================================================================
 
