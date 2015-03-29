@@ -8,8 +8,10 @@ Sun Mar 29 08:38:48 EDT 2015
     Just moved encryption directory to its own repository in github. Now will be
     retrofitted with the following:
 
-    > console DB
-    > DB datastructure....
+    > DB datastructure.... from MACs /c/db/mydb.c
+    > console input from linenoise (this might take a while) so:
+      * break it down to just the console input without history first to make
+        it more manageable
 
 ================================================================================
 
