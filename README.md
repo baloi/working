@@ -3,6 +3,16 @@
 
 ================================================================================
 
+Sun Mar 29 08:38:48 EDT 2015
+
+    Just moved encryption directory to its own repository in github. Now will be
+    retrofitted with the following:
+
+    > console DB
+    > DB datastructure....
+
+================================================================================
+
 Tue Feb 10 06:53:36 EST 2015
 
     Have not coded for a whole week due to the new job at Ferncliff Nursing Home
